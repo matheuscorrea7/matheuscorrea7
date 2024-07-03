@@ -5,7 +5,8 @@
 <li>My name is Matheus Corrêa </li>
 <li>Bachelor's degree in Physics with an emphasis on Computational Physics </li>
 <li>Master's student in applied computing </li>
-<liMember of Artificial Intelligence Laboratory for Aerospace and Environmental Applications </li>
+<li> Member of Artificial Intelligence Laboratory for Aerospace and Environmental Applications </li>
+<li> Member of the IDeepS project </li>
 </ul>
 </body>
 

@@ -1,4 +1,4 @@
-## Biography
+## <p>Biography</p>
 
 <body>
 <ul>
@@ -14,7 +14,7 @@
   <a href="www.linkedin.com/in/matheus-corrêa-domingos-1080b6119"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
 </div><br>
 
- ## Knowledge area
+ ## <p>Knowledge area</p>
 
 * Numerical methods
 * Machine Learning
@@ -29,9 +29,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscorrea7&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
   
-##
 
-## Programming languages
+## <p>Programming languages </p>
 <div class="stacks" style="display: inline_block"><br>         
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />

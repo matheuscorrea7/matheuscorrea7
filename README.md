@@ -14,6 +14,12 @@
   <a href="www.linkedin.com/in/matheus-corrêa-domingos-1080b6119"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
 </div><br>
 
+<div class="github_status"style="display: inline_block">
+  <a href="https://github.com/matheuscorrea7">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuscorrea7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscorrea7&layout=compact&langs_count=7&theme=tokyonight"/>
+ </div>
+
  ## <p>Knowledge area</p>
 
 * Numerical methods
@@ -22,12 +28,6 @@
 * Computational statistics
 * Parallel processing
 * Image processing
-  
-<div class="github_status"style="display: inline_block">
-  <a href="https://github.com/matheuscorrea7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscorrea7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscorrea7&layout=compact&langs_count=7&theme=tokyonight"/>
- </div>
   
 
 ## <p>Programming languages </p>

@@ -60,6 +60,12 @@
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />   
 </div>
 
+## Knowledge in Database
+
+<div class="stacks" style="display: inline_block"><br>         
+  <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />         
+</div>
+
 ## 
 <div>
   <img

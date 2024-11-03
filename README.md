@@ -66,10 +66,3 @@
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />         
 </div>
 
-## 
-<div>
-  <img
-  src="drawing-7821641_1280.jpg"
-  width="1360"
-  height="400" />
-</div>

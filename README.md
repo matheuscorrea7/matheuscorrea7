@@ -13,6 +13,11 @@
   <a href="https://www.linkedin.com/in/matheus-corrêa-domingos-1080b6119" target="_blank" style="text-decoration: none; margin: 10px; transition: transform 0.2s ease;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
+
+  <!-- Currículo Lattes -->
+  <a href="https://lattes.cnpq.br/1234567890" target="_blank" style="text-decoration: none; margin: 10px; transition: transform 0.2s ease;">
+    <img src="https://img.shields.io/badge/-Lattes CV-%2300A4A8?style=for-the-badge&logo=github&logoColor=white" alt="Lattes CV" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  </a>
   <br><br>
 
   <!-- GitHub Stats -->

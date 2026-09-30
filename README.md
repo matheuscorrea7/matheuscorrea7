@@ -20,7 +20,8 @@
 ### 👨‍💼 Sobre Mim
 
 - 🎓 Bacharel em Física com ênfase em Física Computacional  
-- 📚 Mestrando em Computação Aplicada  
+- 🎓 Mestre em Computação Aplicada
+- 📚 Doutorando em Computação Aplicada
 - 🚀 Membro do **Laboratório de Inteligência Artificial para Aplicações Aeroespaciais e Ambientais**  
 - 🔬 Pesquisador no **Projeto IDeepS**
 
